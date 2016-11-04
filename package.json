@@ -4,7 +4,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/driftyco/ionic-conference-app.git"
+    "url": "https://github.com/soulsoundcw/Conference-App.git"
   },
   "scripts": {
     "build": "ionic-app-scripts build",
