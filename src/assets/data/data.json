@@ -2,49 +2,70 @@
 
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "2016-11-15",
       "groups": [
         {
           "time": "8:00 am",
           "sessions": [
             {
-              "name": "Breakfast",
+              "name": "Welcome & Light Breakfast",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
-              "location": "Main hallway",
+              "location": "MLK Parlor",
+              "tracks": ["Food"]
+            }
+          ]
+        },
+		        {
+          "time": "9:00 am",
+          "sessions": [
+            {
+              "name": "Opening Remarks",
+              "timeStart": "9:00 am",
+              "timeEnd": "9:10 am",
+              "location": "MLK Parlor",
+			  "speakerNames": ["Dr. Harry L. Williams"],
               "tracks": ["Food"]
             }
           ]
         },
         {
-          "time": "9:00 am",
+          "time": "9:10 am",
           "sessions": [
             {
-              "name": "Introduction to Appcamp.io",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ellie Elephant"],
-              "timeStart": "9:00 am",
-              "timeEnd": "9:30 am",
-              "tracks": ["Ionic"]
-            },
+              "name": "Infectious Control",
+              "timeStart": "9:10 am",
+              "timeEnd": "9:25 am",
+              "location": "MLK Parlor",
+			  "speakerNames": ["Dr.Michelle Fisher"],
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "9:25 am",
+          "sessions": [
             {
-              "name": "Getting started with Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "9:30 am",
-              "timeEnd": "9:45 am",
-              "tracks": ["Ionic"]
-            },
+              "name": "Risk Management",
+              "timeStart": "9:25 am",
+              "timeEnd": "9:40 am",
+              "location": "MLK Parlor",
+			  "speakerNames": ["Michelle Shorter"],
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "9:45 am",
+          "sessions": [
             {
-              "name": "Tooling for Ionic",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
+              "name": "Campus Safety",
+			  "location": "MLK Parlor",
+			  "description": "Safety",
+			  "speakerNames": ["Harry W. Downes", "Jorge Camacho"],
               "timeStart": "9:45 am",
               "timeEnd": "10:00 am",
-              "tracks": ["Tooling"]
+              "tracks": ["Food"]
             }
           ]
         },
@@ -52,31 +73,39 @@
           "time": "10:00 am",
           "sessions": [
             {
-              "name": "Migrating to Ionic2",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "name": "Break",
               "timeStart": "10:00 am",
               "timeEnd": "10:15 am",
-              "tracks": ["Ionic"]
-            },
+              "location": "MLK Parlor",
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "10:15 am",
+          "sessions": [
             {
-              "name": "The evolution of Ionicons",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
+              "name": "IT: Cyber Security",
+              "location": "MLK Parlor",
+              "description": "Cyber-Security",
+              "speakerNames": ["Darrell McMillon"],
               "timeStart": "10:15 am",
               "timeEnd": "10:30 am",
-              "tracks": ["Design"]
-            },
+              "tracks": ["Food"]
+            }
+          ]
+        },
+        {
+          "time": "10:30 am",
+          "sessions": [
             {
-              "name": "Ionic.io Services",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Charlie Cheetah"],
+              "name": "Title IX",
+              "location": "MLK Parlor",
+              "description": "Title IX",
+              "speakerNames": ["David Sheppard, Esq."],
               "timeStart": "10:30 am",
-              "timeEnd": "11:00 am",
-              "tracks": ["Services"]
+              "timeEnd": "10:45 am",
+              "tracks": ["Food"]
             }
           ]
         },
@@ -84,44 +113,106 @@
           "time": "11:00 am",
           "sessions": [
             {
-              "name": "Ionic Workshop",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "name": "Leading via Transformation",
+              "location": "MLK Parlor A",
+              "description": "The changing landscape of higher education is progressing at lighting speed; causing colleges and universities to re-imagine themselves. This session is designed to assist those who are responsible for leading change during this transformative period; navigate through and thrive during this time of uncertainty, challenge and opportunity.",
+              "speakerNames": ["Artis Hamphire-Cowan, Esq"],
               "timeStart": "11:00 am",
               "timeEnd": "11:45 am",
-              "tracks": ["Workshop"]
+              "tracks": ["Ionic"]
             },
             {
-              "name": "Community Interaction",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-              "timeStart": "11:30 am",
-              "timeEnd": "11:50 am",
-              "tracks": ["Communication"]
+              "name": "Effective Communication",
+              "location": "MLK Parlor B",
+              "description": "Communication is paramount when an organization is transforming from its current state and practices.  This workshop focuses on addressing communication challenges, communicating for all stakeholders and supporting change through effective communication.",
+              "speakerNames": ["Dr. Francine Edwards"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Ionic"]
             },
             {
-              "name": "Navigation in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
-              "timeStart": "11:30 am",
-              "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"]
+              "name": "FERPA",
+              "location": "MLK Parlor C",
+              "description": "Risk management",
+              "speakerNames": ["David K. Sheppard, Esq"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Tooling"]
             }
           ]
         },
         {
-          "time": "12:00 pm",
+          "time": "11:45 am",
           "sessions": [
             {
               "name": "Lunch",
-              "location": "Auditorium",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-              "timeStart": "12:00 pm",
-              "timeEnd": "1:00 pm",
+              "timeStart": "11:45 am",
+              "timeEnd": "12:30 pm",
+              "location": "MLK Parlor",
               "tracks": ["Food"]
+            }
+          ]
+        },        {
+          "time": "12:30 pm",
+          "sessions": [
+            {
+              "name": "Leading via Transformation",
+              "location": "MLK Parlor A",
+              "description": "The changing landscape of higher education is progressing at lighting speed; causing colleges and universities to re-imagine themselves. This session is designed to assist those who are responsible for leading change during this transformative period; navigate through and thrive during this time of uncertainty, challenge and opportunity.",
+              "speakerNames": ["Artis Hamphire-Cowan, Esq"],
+              "timeStart": "12:30 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "Effective Communication",
+              "location": "MLK Parlor B",
+              "description": "Communication is paramount when an organization is transforming from its current state and practices.  This workshop focuses on addressing communication challenges, communicating for all stakeholders and supporting change through effective communication.",
+              "speakerNames": ["Dr. Francine Edwards"],
+              "timeStart": "12:30 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Design"]
+            },
+            {
+              "name": "FERPA",
+              "location": "MLK Parlor C",
+              "description": "Learn the basics of the Family Educational Rights and Privacy Act.",
+              "speakerNames": ["David K. Sheppard, Esq"],
+              "timeStart": "12:30 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Services"]
+            }
+          ]
+        },
+        {
+          "time": "1:15 pm",
+          "sessions": [
+            {
+              "name": "Progressive Discipline",
+              "location": "MLK Parlor A",
+              "description": "Progressive discipline should be used by managers to provide notice to employees who are not meeting expected or communicated job performance standards.  Learn how to effectively use a progressive discipline system that will assist you with correcting employee performance problems.",
+              "speakerNames": ["Irene Chapman-Hawkins"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Workshop"]
+            },
+            {
+              "name": "Travel/P.O. Policy",
+              "location": "MLK Parlor B",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Danielle Watson", "Michelle Shorter"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Emergency Response",
+              "location": "MLK Parlor C",
+              "description": "An active shooter situation can occur anywhere, anytime, by anyone.  Being aware of what to do and/or how to respond can save your life.",
+              "speakerNames": ["Jorge Camacho", "Eva Eagle"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Navigation"]
             }
           ]
         },
@@ -129,86 +220,75 @@
           "time": "1:00 pm",
           "sessions": [
             {
-              "name": "Ionic in the Enterprise",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Paul Puppy"],
-              "timeStart": "1:00 pm",
-              "timeEnd": "1:15 pm",
-              "tracks": ["Communication"]
-            },
-            {
-              "name": "Ionic Worldwide",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Gino Giraffe"],
-              "timeStart": "1:15 pm",
-              "timeEnd": "1:30 pm",
-              "tracks": ["Communication"]
-            },
-            {
-              "name": "The Ionic package service",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Molly Mouse", "Burt Bear"],
-              "timeStart": "1:30 pm",
-              "timeEnd": "2:00 pm",
-              "tracks": ["Services"]
-            }
-          ]
-        },
-        {
-          "time": "2:00 pm",
-          "sessions": [
-            {
-              "name": "Push Notifications in Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "name": "Break",
+              "location": "MLK Parlor",
               "timeStart": "2:00 pm",
-              "timeEnd": "2:30 pm",
-              "tracks": ["Services"]
-            },
-            {
-              "name": "Ionic Documentation",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Donald Duck"],
-              "timeStart": "2:30 pm",
-              "timeEnd": "2:45 pm",
-              "tracks": ["Documentation"]
-            },
-            {
-              "name": "UX planning in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
-              "timeStart": "2:45 pm",
-              "timeEnd": "3:00 pm",
-              "tracks": ["Design"]
+              "timeEnd": "2:15 pm",
+              "tracks": ["Food"]
             }
           ]
         },
         {
-          "time": "3:00",
+          "time": "2:15 pm",
           "sessions": [
             {
-              "name": "Directives in Ionic",
-              "location": "Room 2201",
+              "name": "Generation Z",
+              "location": "MLK Parlor A",
               "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"]
+              "speakerNames": ["Justin Shaifer"],
+              "timeStart": "2:15 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Communication"]
             },
             {
-              "name": "Mobile States",
-              "location": "Room 2202",
+              "name": "Work Life Balance",
+              "location": "MLK Parlor B",
+              "description": "We spend more time at work than with any of the people we love, take care of, or live with.  Sometimes our jobs… our careers… take over.  Worse case, we may negatively affect our health and well-being.  However, balancing everything we have to do is a lot more simple than we think it is. Let’s get you back on track to manage your work life, have more time for your personal life, and help you avoid the “stress” issues that too many of us are affected by.",
+              "speakerNames": ["Claudia White"],
+              "timeStart": "2:15 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Diversity (Cultural Differences)",
+              "location": "MLK Parlor C",
+              "description": "Fostering a diverse and inclusive campus community – This interactive session will review institutional nondiscrimination and anti-harassment policies and procedures, discuss unconscious or implicit biases, and provide information on preventing and addressing discrimination and harassment in the workplace. ",
+              "speakerNames": ["Olabisi Ladeji Okubadejo, Esq"],
+              "timeStart": "2:15 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Services"]
+            }
+          ]
+        },
+        {
+          "time": "3:00 pm",
+          "sessions": [
+            {
+              "name": "Generation Z",
+              "location": "MLK Parlor A",
               "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
+              "speakerNames": ["Justin Shaifer"],
+              "timeStart": "3:00 pm",
               "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"]
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Work Life Balance",
+              "location": "MLK Parlor B",
+              "description": "We spend more time at work than with any of the people we love, take care of, or live with.  Sometimes our jobs… our careers… take over.  Worse case, we may negatively affect our health and well-being.  However, balancing everything we have to do is a lot more simple than we think it is. Let’s get you back on track to manage your work life, have more time for your personal life, and help you avoid the “stress” issues that too many of us are affected by.",
+              "speakerNames": ["Claudia White"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Diversity (Cultural Differences)",
+              "location": "MLK Parlor C",
+              "description": "Fostering a diverse and inclusive campus community – This interactive session will review institutional nondiscrimination and anti-harassment policies and procedures, discuss unconscious or implicit biases, and provide information on preventing and addressing discrimination and harassment in the workplace. ",
+              "speakerNames": ["Olabisi Ladeji Okubadejo, Esq"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Services"]
             }
           ]
         }
@@ -219,7 +299,7 @@
 
   "speakers": [
     {
-      "name": "Burt Bear",
+      "name": "Dr. Harry L. Williams",
       "profilePic": "assets/img/speakers/bear.jpg",
       "twitter": "ionicframework",
       "about": "Burt is a Bear.",
@@ -228,7 +308,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Charlie Cheetah",
+      "name": "Darrell McMillion",
       "profilePic": "assets/img/speakers/cheetah.jpg",
       "twitter": "ionicframework",
       "about": "Charlie is a Cheetah.",
@@ -237,7 +317,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Donald Duck",
+      "name": "David K. Sheppard, Esq",
       "profilePic": "assets/img/speakers/duck.jpg",
       "twitter": "ionicframework",
       "about": "Donald is a Duck.",
@@ -246,7 +326,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Eva Eagle",
+      "name": "Michelle Shorter",
       "profilePic": "assets/img/speakers/eagle.jpg",
       "twitter": "ionicframework",
       "about": "Eva is an Eagle.",
@@ -255,7 +335,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Ellie Elephant",
+      "name": "Dr. Francine Edwards",
       "profilePic": "assets/img/speakers/elephant.jpg",
       "twitter": "ionicframework",
       "about": "Ellie is an Elephant.",
@@ -264,7 +344,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Gino Giraffe",
+      "name": "Irene Chapman-Hawkins",
       "profilePic": "assets/img/speakers/giraffe.jpg",
       "twitter": "ionicframework",
       "about": "Gino is a Giraffe.",
@@ -273,7 +353,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Isabella Iguana",
+      "name": "Harry W. Downes",
       "profilePic": "assets/img/speakers/iguana.jpg",
       "twitter": "ionicframework",
       "about": "Isabella is an Iguana.",
@@ -282,7 +362,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Karl Kitten",
+      "name": "Dr. Michelle Fisher",
       "profilePic": "assets/img/speakers/kitten.jpg",
       "twitter": "ionicframework",
       "about": "Karl is a Kitten.",
@@ -291,7 +371,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Lionel Lion",
+      "name": "Danielle Watson",
       "profilePic": "assets/img/speakers/lion.jpg",
       "twitter": "ionicframework",
       "about": "Lionel is a Lion.",
@@ -300,7 +380,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Molly Mouse",
+      "name": "Justin Shaifer",
       "profilePic": "assets/img/speakers/mouse.jpg",
       "twitter": "ionicframework",
       "about": "Molly is a Mouse.",
@@ -309,7 +389,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Paul Puppy",
+      "name": "Artis Hamphire-Cowan, Esq",
       "profilePic": "assets/img/speakers/puppy.jpg",
       "twitter": "ionicframework",
       "about": "Paul is a Puppy.",
@@ -318,7 +398,16 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Rachel Rabbit",
+      "name": "Claudia White",
+      "profilePic": "assets/img/speakers/rabbit.jpg",
+      "twitter": "ionicframework",
+      "about": "Rachel is a Rabbit.",
+      "location": "Everywhere",
+      "email": "rachel@example.com",
+      "phone": "+1-541-754-3010"
+    },
+	{
+      "name": "Olabisi Ladeji Okubadejo, Esq",
       "profilePic": "assets/img/speakers/rabbit.jpg",
       "twitter": "ionicframework",
       "about": "Rachel is a Rabbit.",
@@ -327,7 +416,7 @@
       "phone": "+1-541-754-3010"
     },
     {
-      "name": "Ted Turtle",
+      "name": "Jorge Camacho",
       "profilePic": "assets/img/speakers/turtle.jpg",
       "twitter": "ionicframework",
       "about": "Ted is a Turtle.",
